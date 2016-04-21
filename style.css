@@ -1,0 +1,19 @@
+/* General */
+
+* {
+  font-family: 'Slabo 27px', serif;
+}
+
+body {
+  background-color: #cccccc;
+}
+
+h1 {
+  font-size: 6rem;
+  text-decoration: underline;
+}
+
+h3 {
+  font-size: 4rem;
+  padding-bottom: 3rem;
+}
